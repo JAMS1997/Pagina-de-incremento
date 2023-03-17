@@ -1,0 +1,13 @@
+body{
+    background: rgb(71,12,255);
+    background: radial-gradient(circle, rgba(71,12,255,1) 13%, rgba(4,120,255,1) 85%);
+    color: white;
+}
+
+button{
+    border: 2px solid white;
+}
+
+.nav-link{
+    color: white;
+}
